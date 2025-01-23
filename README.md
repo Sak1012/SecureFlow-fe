@@ -1,3 +1,7 @@
+#SecureFlow Frontend
+
+This is the frontend dashboard for [SecureFlow](https://github.com/Sak1012/SecureFlow)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
