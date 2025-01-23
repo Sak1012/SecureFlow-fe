@@ -1,4 +1,4 @@
-#SecureFlow Frontend
+# SecureFlow Frontend
 
 This is the frontend dashboard for [SecureFlow](https://github.com/Sak1012/SecureFlow)
 
